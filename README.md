@@ -1,2 +1,2 @@
 # Memorable-Places
-App to store selected places on Map
+App to store memorable places on Map using Google Maps API
